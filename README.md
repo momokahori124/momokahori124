@@ -1,5 +1,5 @@
 <h2 align="left"> Hi there 👋</h2>
- * * *  
+
 
 <h3 align="left">🤵 About Me:</h3>
 
