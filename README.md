@@ -3,9 +3,9 @@
 
 <h3 align="left">🤵 About Me:</h3>
 
-- 🏫 I studied mathematics at Ochanomizu University.
-- 💻 I'm a student of 42tokyo.
-- 🌱 I'm currently learning CS and Rails.
+🌱 I am a student studying in 42Tokyo.
+
+[![jaeskim's 42 status](https://badge42.herokuapp.com/api/stats/mhori?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
 
 <!---
 
